@@ -1,0 +1,6 @@
+# This project uses only Python standard library
+# No external dependencies required
+
+# Optional: If you want to add more features later
+# requests>=2.25.1
+# colorama>=0.4.4
