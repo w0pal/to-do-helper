@@ -41,7 +41,7 @@ The Pomodoro Technique has helped me break down large tasks into smaller, more m
 
 1. Clone or download this project
 ```bash
-git clone <repository-url>
+git clone https://github.com/w0pal/to-do-helper
 cd to-do-helper
 ```
 
@@ -91,7 +91,7 @@ to-do-helper/
 
 ## Demo Video
 
-[Demo video link will be added here]
+[Youtube Link](https://youtu.be/OGaRb-F2qZ0?si=plovX4maZeT3tj2F)
 
 ## Technical Features
 
